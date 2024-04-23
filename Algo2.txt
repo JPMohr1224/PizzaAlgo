@@ -1,6 +1,9 @@
 Choose pizzaria
 choose your style
 add wings
+blue cheese, duChoose pizzaria
+choose your style
+add wings
 choose bone in or boneless
 choose hot, bbq hot, mango habanero, thia curry, or atomic
 choose 10, 20, or 50 piece
